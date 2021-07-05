@@ -1,0 +1,4 @@
+701    0.0    0.0    0.0    0.0  000     !Africa relative to Earth's spin axis     
+701  200.0    0.0    0.0    0.0  000     !   
+201    0.0    0.0    0.0    0.0  701     !South America relative to Africa   
+201  200.0    0.0    0.0    0.0  701     !    
